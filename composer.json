@@ -1,0 +1,11 @@
+{
+	"name": "example/php-pdo",
+    "version": "23.6.1",
+    "type": "project",
+    "description": "The PHP project.",
+    "keywords": ["php", "pdo"],
+    "license": "MIT",
+    "require-dev": {
+		"symfony/var-dumper": "^6.3"
+	}
+}
